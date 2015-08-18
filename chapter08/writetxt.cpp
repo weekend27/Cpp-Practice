@@ -16,7 +16,7 @@ int main(){
 	if (! file_out){
 		cout << filename << " could not be opened.";
 		cout << endl;
-		system("PAUSE");
+		//system("PAUSE");
 		return -1;
 	}
 	cout << filename << " was opened." << endl;
@@ -24,6 +24,6 @@ int main(){
 	file_out << "news today," << endl;
 	file_out << "ooh boy.";
 	file_out.close();
-	system("PAUSE");
+	//system("PAUSE");
 	return 0;
 }
