@@ -132,5 +132,5 @@ ostream &operator<<(ostream &os, Fraction &fr){
 }
 
 /*
-
+1/2 + 1/3 + 1 = 11/6
 */
