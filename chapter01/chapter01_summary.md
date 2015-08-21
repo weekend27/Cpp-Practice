@@ -1,4 +1,4 @@
-###Chapter01 Summary
+###<center>Chapter01 Summary</center>
 
 Here are the main points of Chapter 1:
 
@@ -17,15 +17,10 @@ completed, you have an executable program.
 4.Simple C++ programs have the following general form:
 
         #include "iostream"
-        
         using namespace std;
-        
-        int main() {
-        
-        Enter_your_statements_here!
-        
-        return 0;
-        
+        int main() { 
+            Enter_your_statements_here!    
+            return 0;
         }
     
 5.Almost every C++ statement is terminated by a semicolon (;).
