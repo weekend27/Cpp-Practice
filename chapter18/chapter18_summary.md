@@ -42,7 +42,7 @@ in the class in which it is declared. You declare a pure virtual function by usi
 11.A class with at least one pure virtual function is an abstract class. Such a class
 cannot be used to instantiate objects.
 
-Number a, b, c;     // ERROR!
+        Number a, b, c;     // ERROR!
 
 12.Abstract classes are useful as a means to create a general interface—a list of ser-
 vices that a subclass provides by implementing all the virtual functions.
