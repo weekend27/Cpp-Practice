@@ -30,8 +30,8 @@ your computer to prematurely run low on memory and need to be rebooted.
 
 5.Use the delete keyword to release objects and free up memory.
 
-delete p;       // p points to an object
-delete[] p;     // p points to an array of objects.
+        delete p;       // p points to an object
+        delete[] p;     // p points to an array of objects.
 
 6.Recursion is sometimes the only practical way to solve a problem, as in the
 Tower of Hanoi. But otherwise, if there is both an iterative (loop-based) and
