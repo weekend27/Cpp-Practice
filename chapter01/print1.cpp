@@ -1,5 +1,4 @@
-
-//start write c++ code
+//start to write c++ code
 
 #include <iostream>
 using namespace std;
